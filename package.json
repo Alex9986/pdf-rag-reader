@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@huggingface/transformers": "^4.2.0",
+    "idb": "^8.0.3",
     "next": "16.3.2",
+    "pdfjs-dist": "^6.2.108",
     "react": "19.2.8",
     "react-dom": "19.2.8"
   },
